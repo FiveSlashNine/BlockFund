@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BlockFund/static/css/main.d138fb8e.css",
+    "main.js": "/BlockFund/static/js/main.3497904f.js",
+    "static/js/488.cfc5b044.chunk.js": "/BlockFund/static/js/488.cfc5b044.chunk.js",
+    "index.html": "/BlockFund/index.html",
+    "main.d138fb8e.css.map": "/BlockFund/static/css/main.d138fb8e.css.map",
+    "main.3497904f.js.map": "/BlockFund/static/js/main.3497904f.js.map",
+    "488.cfc5b044.chunk.js.map": "/BlockFund/static/js/488.cfc5b044.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d138fb8e.css",
+    "static/js/main.3497904f.js"
+  ]
+}
